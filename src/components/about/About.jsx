@@ -16,10 +16,9 @@ const About = () => {
                 <div className="about__data">
                     <Info />
                 
-                    <p className="about__description">A hard-working and friendly student who is 
-                    ready to take on any challenge with an enthusiastic approach. Have done 
-                    multiple projects and can not wait to dive-in deeper and learn how to create 
-                    various products and continue to find ways to maximize user efficiency.</p>
+                    <p className="about__description">As a motivated and ambitious IT student, 
+                    I am eager to apply my knowledge and skills to real-world projects. With experience in various programming languages and a passion for creating user-friendly websites, I am confident in my ability to make a valuable contribution to any team. I am always eager to learn new technologies and stay up-to-date with industry trends, 
+                    and I am excited to take on new challenges and grow my skillset.</p>
 
                     <a download="" href={CV} className="button button--flex">
                         Download CV
