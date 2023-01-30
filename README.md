@@ -13,4 +13,4 @@ This is a personal website I created using React, a popular JavaScript library f
 
 ## Visit the Website
 
-To visit the website [click here!](https://pages.github.com/](https://aizhk.github.io/my-portfolio-react/).
+To visit the website [click here!](https://aizhk.github.io/my-portfolio-react/).
