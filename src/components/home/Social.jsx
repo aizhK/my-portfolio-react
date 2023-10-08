@@ -4,7 +4,7 @@ const Social = () => {
     return (
         <div className="home__social">
 
-            <a href="https://github.com/aizhK/aizhK" className="home__social-icon" target="_blank">
+            <a href="https://github.com/aizhK" className="home__social-icon" target="_blank">
             <i class='bx bxl-github' ></i>
             </a>
 
