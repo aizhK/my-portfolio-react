@@ -22,7 +22,7 @@ const Footer = () => {
                 </ul>
             
                 <div className="footer__social">
-                    <a href="https://github.com/aizhK/aizhK" className="footer__social-link" target="_blank">
+                    <a href="https://github.com/aizhK" className="footer__social-link" target="_blank">
                         <i className="bx bxl-github"></i>
                     </a>
 
